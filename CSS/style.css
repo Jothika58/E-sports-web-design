@@ -21,7 +21,7 @@
   font-size: 30px;
   z-index: 997;
   font-weight: bold;
-  color: #888080;
+  color: #ebebeb;
 }
 #container #logo:hover {
   color: #a52323;
@@ -115,7 +115,7 @@ main {
 }
 
 .fa-primary {
-  color: #ff7eee;
+  color: #a52323;
 }
 
 .fa-secondary {
@@ -274,7 +274,7 @@ main {
 }
 #content h4 {
   font-size: 40px;
-  color: rgb(114, 106, 106)49, 37, 37);
+  color: rgb(114, 106, 106);
 }
 #content:hover h4 {
   color: #a52323;
@@ -284,7 +284,7 @@ main {
 #icons {
   height: 500px;
   width: 65px;
-  position: absolute;
+  position: fixed;
   right: 0;
   top: calc(50% - 250px);
   background: #1c5da4;
@@ -333,7 +333,7 @@ main {
 #line2 {
   height: 150px;
   width: 60px;
-  background: #000;
+  background: #165397;
   position: absolute;
   bottom: 0;
   left: 20%;
